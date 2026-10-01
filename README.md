@@ -22,16 +22,16 @@ I enjoy building practical projects involving microcontrollers, FPGA systems, co
 ### FPGA & Digital Design
 `VHDL` · `FPGA` · `RTL` · `Finite State Machines` · `Xilinx Vivado` · `Xilinx ISE`
 
-### Communication & IoT
-`Wi-Fi` · `HTTP` · `JSON` · `MQTT` · `IoT`
+### IoT & Communication
+`Wi-Fi` · `HTTP` · `JSON` · `MQTT`
 
 ### Software
 `Swift` · `SwiftUI` · `Python` · `Git` · `GitHub`
 
 ### Electronics & Design
-`KiCad` · `LTspice` · `Embedded Hardware` · `PCB Design`
+`KiCad` · `LTspice` · `PCB Design`
 
-## Selected Projects
+## Projects
 
 ### STM32 Distance Detection
 Ultrasonic distance measurement system using STM32, HC-SR04, rotary encoder, ADC and I2C LCD.
