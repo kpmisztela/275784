@@ -83,4 +83,4 @@ Embedded systems, firmware development, digital electronics, FPGA design, IoT an
 
 📍 Wrocław, Poland
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/275784)
+[LinkedIn](https://www.linkedin.com/in/kpmisztela/) · [GitHub](https://github.com/275784)
