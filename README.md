@@ -37,43 +37,43 @@ I enjoy building practical projects that combine electronics, programming and re
 
 Ultrasonic distance measurement system based on STM32 with HC-SR04, rotary encoder, ADC, timer input capture and I2C LCD.
 
-[View repository](https://github.com/275784/stm32-distance-detection)
+[View repository](https://github.com/kpmisztela/stm32-distance-detection)
 
 ### ESP32 Bluetooth RC Car
 
 ESP32-based RC car with Bluetooth gamepad control, PWM motor and steering control, custom PCB design and hardware safety features.
 
-[View repository](https://github.com/275784/esp32-bluetooth-rc-car)
+[View repository](https://github.com/kpmisztela/esp32-bluetooth-rc-car)
 
 ### STM32 Solar Tracker
 
 Low-power solar tracking system using dual LDR sensing, servo positioning, power control and STM32-based control logic.
 
-[View repository](https://github.com/275784/stm32-solar-tracker)
+[View repository](https://github.com/kpmisztela/stm32-solar-tracker)
 
 ### ATmega32 Dual Stepper Motor Control
 
 Joystick-controlled dual stepper motor system implemented on ATmega32 with LCD feedback and modular firmware.
 
-[View repository](https://github.com/275784/atmega32-dual-stepper-control)
+[View repository](https://github.com/kpmisztela/atmega32-dual-stepper-control)
 
 ### FPGA Light Sensor Buzzer Controller
 
 VHDL-based FPGA system that converts phototransistor light intensity into discrete buzzer frequencies using an ADC interface and FSM-based logic.
 
-[View repository](https://github.com/275784/fpga-light-sensor-buzzer)
+[View repository](https://github.com/kpmisztela/fpga-light-sensor-buzzer)
 
 ### VHDL Brewery Production Line
 
 FSM-based brewery production line controller with resource management, production counters, packaging logic and behavioral simulation.
 
-[View repository](https://github.com/275784/vhdl-brewery-production-line)
+[View repository](https://github.com/kpmisztela/vhdl-brewery-production-line)
 
 ### SwiftUI ESP8266 LED Controller
 
 iOS application built with SwiftUI for controlling LED parameters over Wi-Fi through an ESP8266 HTTP/JSON interface.
 
-[View repository](https://github.com/275784/swiftui-esp8266-led-controller)
+[View repository](https://github.com/kpmisztela/swiftui-esp8266-led-controller)
 
 ## Interests
 
@@ -83,4 +83,4 @@ Embedded systems, firmware development, digital electronics, FPGA design, IoT an
 
 📍 Wrocław, Poland
 
-[LinkedIn](https://www.linkedin.com/in/kpmisztela/) · [GitHub](https://github.com/275784)
+[LinkedIn](https://www.linkedin.com/in/kpmisztela/) · [GitHub](https://github.com/kpmisztela)
