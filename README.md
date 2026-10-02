@@ -2,9 +2,9 @@
 
 ### Intelligent Electronics Student | Embedded Systems | FPGA | IoT
 
-I'm an Intelligent Electronics student at Wrocław University of Science and Technology, interested in embedded systems, firmware development, digital electronics, FPGA design and hardware-software integration.
+I'm an Intelligent Electronics student at Wrocław University of Science and Technology, interested in embedded systems, firmware development, digital electronics and FPGA design.
 
-I enjoy building practical projects that combine electronics, programming and real-world device control.
+I enjoy building practical projects that combine electronics, low-level programming, hardware-software integration and real-world device control.
 
 ## About Me
 
@@ -23,10 +23,10 @@ I enjoy building practical projects that combine electronics, programming and re
 `VHDL` · `FPGA` · `RTL` · `Finite State Machines` · `Xilinx Vivado` · `Xilinx ISE`
 
 ### IoT & Communication
-`Wi-Fi` · `HTTP` · `JSON` · `MQTT`
+`Wi-Fi` · `HTTP` · `Bluetooth` · `MQTT`
 
 ### Software
-`Swift` · `SwiftUI` · `Python` · `Git` · `GitHub`
+`Swift` · `SwiftUI` · `Git` · `GitHub`
 
 ### Electronics & Design
 `KiCad` · `LTspice` · `PCB Design`
@@ -78,6 +78,10 @@ iOS application built with SwiftUI for controlling LED parameters over Wi-Fi thr
 ## Interests
 
 Embedded systems, firmware development, digital electronics, FPGA design, IoT and hardware-software integration.
+
+### Direction of Development
+
+I'm particularly interested in developing further in embedded systems and firmware, with a focus on microcontrollers, digital electronics, hardware-software integration and IoT-connected devices.
 
 ## Contact
 
