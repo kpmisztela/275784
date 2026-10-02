@@ -33,17 +33,17 @@ I enjoy building practical projects that combine electronics, low-level programm
 
 ## Projects
 
-### STM32 Distance Detection System
-
-Ultrasonic distance measurement system based on STM32 with HC-SR04, rotary encoder, ADC, timer input capture and I2C LCD.
-
-[View repository](https://github.com/kpmisztela/stm32-distance-detection)
-
 ### ESP32 Bluetooth RC Car
 
 ESP32-based RC car with Bluetooth gamepad control, PWM motor and steering control, custom PCB design and hardware safety features.
 
 [View repository](https://github.com/kpmisztela/esp32-bluetooth-rc-car)
+
+### STM32 Distance Detection System
+
+Ultrasonic distance measurement system based on STM32 with HC-SR04, rotary encoder, ADC, timer input capture and I2C LCD.
+
+[View repository](https://github.com/kpmisztela/stm32-distance-detection)
 
 ### STM32 Solar Tracker
 
